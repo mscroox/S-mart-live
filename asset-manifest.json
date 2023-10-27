@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.dfe003ce.css",
+    "main.js": "/static/js/main.9cad0ca4.js",
+    "static/media/4dots.gif": "/static/media/4dots.7f686c03a467bef7dac6.gif",
+    "static/media/check.gif": "/static/media/check.b90e28d3041dc90771c9.gif",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/Cart-empty.gif": "/static/media/Cart-empty.a8ba52e465ec571d2b95.gif",
+    "static/media/paymentqr.jpg": "/static/media/paymentqr.a05962356dffc12618c4.jpg",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/bg.jpg": "/static/media/bg.9323d04a7510dea8c0b7.jpg",
+    "static/media/pelogo.png": "/static/media/pelogo.250c5b989db77b7aed64.png",
+    "static/media/login.gif": "/static/media/login.c98ea4310182924c441e.gif",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/upi.png": "/static/media/upi.d1850240f3798cd69029.png",
+    "static/media/gpay.png": "/static/media/gpay.6e1a50a01a211016e770.png",
+    "index.html": "/index.html",
+    "main.dfe003ce.css.map": "/static/css/main.dfe003ce.css.map",
+    "main.9cad0ca4.js.map": "/static/js/main.9cad0ca4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dfe003ce.css",
+    "static/js/main.9cad0ca4.js"
+  ]
+}
